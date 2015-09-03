@@ -4,7 +4,7 @@ module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'businessdotcom-register',
     environment: environment,
-    baseURL: '/',
+    baseURL: '/register',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
