@@ -1,5 +1,6 @@
 {
   "name": "businessdotcom-register",
+  "version": "1.0.1",
   "main": [
       "app/app.js",
       "app/index.html"
